@@ -1,1 +1,1 @@
-from registry.k8s.io/sig-storage/livenessprobe:v2.6.0
+from registry.k8s.io/sig-storage/csi-provisioner:v3.1.0
