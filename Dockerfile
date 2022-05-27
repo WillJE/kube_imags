@@ -1,1 +1,1 @@
-from registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.0
+from k8s.gcr.io/sig-storage/csi-provisioner:v3.1.0
