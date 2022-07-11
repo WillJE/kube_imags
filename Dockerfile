@@ -1,1 +1,1 @@
-from quay.io/k8scsi/csi-snapshotter:v1.1.0
+from ceph/ceph:v14.2
