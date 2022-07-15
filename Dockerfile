@@ -1,1 +1,1 @@
-from ceph/ceph:v14.2
+from quay.io/k8scsi/csi-provisioner:v1.0.0
