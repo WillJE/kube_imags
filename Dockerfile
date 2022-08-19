@@ -1,1 +1,1 @@
-from quay.io/k8scsi/csi-attacher:v1.0.1
+from k8s.gcr.io/serve_hostname
